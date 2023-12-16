@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pradeep Varathan"
   avatar           : "ProfilePic.png"
-  bio              : "Full-time Bioinformatics Doctoral Student" \n "Part-time Photographer "\n "All-time Nature lover"
+  bio              : "Full-time Bioinformatics Doctoral Student and Part-time Photographer"
   location         : "Indianapolis"
   employer         :
   pubmed           : 
@@ -104,7 +104,7 @@ author:
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-5863-0468"
-  darkroom         : " https://pradeepvarathanpugalenthi.darkroom.com/"
+  pinterest        : "https://pradeepvarathanpugalenthi.darkroom.com/"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
