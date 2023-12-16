@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pradeep Varathan"
   avatar           : "ProfilePic.png"
-  bio              : "Full-time Bioinformatics Doctoral Student \n Part-time Photographer \n All-time Nature lover"
+  bio              : "Full-time Bioinformatics Doctoral Student" \n "Part-time Photographer "\n "All-time Nature lover"
   location         : "Indianapolis"
   employer         :
   pubmed           : 
