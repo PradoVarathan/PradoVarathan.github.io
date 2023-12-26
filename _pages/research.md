@@ -4,30 +4,14 @@ title: "Research"
 permalink: /research/
 author_profile: true
 header:
-  og_image: "research/ecdf.png"
+  og_image: "Research/ecdf.png"
 ---
 
-My academic research falls into two main areas: understanding the influence of
-geography on actor behavior before, during, and after civil conflict, and
-developing new tools to improve the study of institutions (both formal and
-informal) in peace and conflict. One strand of research in this first area
-explores how the territories that ethnic groups inhabit shape rebel group
-formation and condition their relationship with the state. My interest in
-geography also informs projects on active conflicts including the targeting of
-UN peacekeepers by insurgent groups, civilian victimization after rebel
-territorial conquest, and communal violence in fragile settings.
+My academic research is based on understanding Alzheimer's disease pathology, including building the best diagnostic tools for AD categorization and also on how these tools and methodologies can work on other chronic conditions such as cancer, diabetes and so. 
 
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
+Alzheimer’s disease (AD) is one of the most common form of brain dementia, along with which substantial failure of organs and mental issues arise. The heritability of AD is very high, estimated to be between 60% and 80% with much requirement to be done in investigating the genetic aspect of the pathology. With the burst of sequencing and advancement of multiple branches of omics, the amount and variety of data that can be collected for a single study also collectively increased. 
 
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
+ Starting with Genome-Wide Association Studies (GWAS) that are able to calculate the most significantly associated variant to the phenotype,  expression quantitative trait loci (eQTL), which provides a region of genome that have variations and correlate with gene expression, and RNA-sequencing data which provides the exact value of expression of the gene at a given point of time from their RNA composition, belong just in the genomic division of dataset. Having such closely related datasets, I can take a step back to further understand how the variants affect or cause the pathology of AD. Further, the epigenomic functional analysis of these variants can allow us to look at how the variants are being associated to the gene and the disease. I also incorporate the metabolomics and imaging studies to calculate the how a multi-omics approach can help identifying variants and genes that explain pathology of AD. The collective aim of my research is to identify the functional variants and metabolite effect to construct a continuous multi-omics-based pathology for AD.
 
 <nbsp>
 
